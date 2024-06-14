@@ -1,6 +1,18 @@
 # Java-MultiThreaded-Scheduler
 A multithreaded Spring application with a Java backend and Angular frontend. Features include multilingual support, currency display, and time zone conversion. Containerized with Docker for cloud deployment.
 
+The website: 
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/05a4d46f-a456-4bcb-9b99-4d13792f0da9)
+
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/548b0f4f-0bb8-4076-95dd-c1e5b47d9150)
+
+Multi-Threading time zones:
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/dd58ec01-ec42-4082-b362-5d6cf150fd68)
+
+Multithreading currency conversion: 
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/6acd7696-35fd-48ca-afeb-d5c634725a43)
+
+
 <body>
     <h3>3. Describe how you would deploy the current multithreaded Spring application to the cloud. Include the name of the cloud service provider you would use.</h3>
     <p>Since I am quite familiar with Microsoft Azure, I would choose it as the cloud service provider for deploying my multithreaded Spring application. Azure provides excellent capabilities for handling Docker containers, which is ideal for this task, as it eliminates the need for server management.</p>
