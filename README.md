@@ -12,6 +12,8 @@ Multi-Threading time zones:
 Multithreading currency conversion: 
 ![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/6acd7696-35fd-48ca-afeb-d5c634725a43)
 
+Project 
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/23d668a9-c613-459c-9bd3-a9616eb997fa)
 
 <body>
     <h3>3. Describe how you would deploy the current multithreaded Spring application to the cloud. Include the name of the cloud service provider you would use.</h3>
