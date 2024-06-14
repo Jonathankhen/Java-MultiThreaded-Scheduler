@@ -6,6 +6,12 @@ The website:
 
 ![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/548b0f4f-0bb8-4076-95dd-c1e5b47d9150)
 
+Multi-threading language welcome messages:
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/0083f103-1deb-4aa6-80f4-eb868663c266)
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/65f39024-0ca5-4693-b1bc-ee44b5581f11)
+![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/55366213-881c-42f1-858c-2ecbe286a8ee)
+
+
 Multi-Threading time zones:
 ![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/dd58ec01-ec42-4082-b362-5d6cf150fd68)
 
