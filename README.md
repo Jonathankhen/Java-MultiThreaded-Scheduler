@@ -22,7 +22,7 @@ Project
 ![image](https://github.com/Jonathankhen/Java-MultiThreaded-Scheduler/assets/121633526/23d668a9-c613-459c-9bd3-a9616eb997fa)
 
 <body>
-    <h3>3. Describe how you would deploy the current multithreaded Spring application to the cloud. Include the name of the cloud service provider you would use.</h3>
+    <h3>Overview of deploying the multithreaded Spring application to the cloud</h3>
     <p>Since I am quite familiar with Microsoft Azure, I would choose it as the cloud service provider for deploying my multithreaded Spring application. Azure provides excellent capabilities for handling Docker containers, which is ideal for this task, as it eliminates the need for server management.</p>
     <p>The first step in the deployment process is to package the application into a Docker container. I would begin by using Maven to build the project, ensuring that the <code>mvn clean package</code> command is executed to compile the application and package it into a <code>.jar</code> file. This <code>.jar</code> file contains the compiled version of the application and all its dependencies.</p>
     <p>Next, I would prepare a Dockerfile that outlines how the Docker container should be built. This Dockerfile would start from a Java runtime environment base image, and it would copy the <code>.jar</code> file from the Maven build into the container. It's critical to set the container to expose port 8080, as this is the standard port for web applications like Spring.</p>
