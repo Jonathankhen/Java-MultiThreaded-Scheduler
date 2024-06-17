@@ -8,19 +8,19 @@ import { HttpClientModule} from '@angular/common/http';
 import {HashLocationStrategy, LocationStrategy} from "@angular/common";
 
 
-// testing
+
 
 @NgModule({
-  declarations: [
-    AppComponent
-  ],
+  declarations: [AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
     ReactiveFormsModule
   ],
-  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
+
+
